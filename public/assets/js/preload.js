@@ -1,0 +1,1 @@
+if(!window.location.pathname.length) {const preloadImage = document.createElement("link");preloadImage.rel = "preload";preloadImage.href = "/assets/images/mosque.png";preloadImage.as = "image";document.head.appendChild(preloadImage);}

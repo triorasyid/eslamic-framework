@@ -1,0 +1,7 @@
+{
+    "site_name": "E-slamic Corner",
+    "domain": {
+        "frontend": "https://eslamiccorner.my.id",
+        "backend": "https://cdn.eslamiccorner.my.id"
+    }
+}
